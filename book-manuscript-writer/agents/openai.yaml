@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "图书书稿写作"
+  short_description: "按目录、规范、模板和风格要求撰写书稿"
+  default_prompt: "使用 $book-manuscript-writer，按照我的目录、写作规范、参考资料和 Word 交付要求来撰写或审校这一章。"
+
+policy:
+  allow_implicit_invocation: true
